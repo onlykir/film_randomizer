@@ -29,7 +29,7 @@ bundle exec ruby main.rb
 ``` 
 
 ### Demo:
-
+![film_randomizer](https://user-images.githubusercontent.com/71513174/117382355-ff11cd80-aee6-11eb-8a84-2641529b7645.gif)
 
 ### How the program works:
 The application gives us a list of directors from kinonews.ru. 
